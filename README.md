@@ -1,5 +1,5 @@
 
-# Trabalho para a disciplina de BASEGED. Gerador de metadados em formato .CSV padrão ISAD(Simplificado)
+# Gerador de metadados em formato .CSV padrão ISAD(Simplificado)
 * Software utilizado: NetBeans 8.1
 * API utilizada: Java NIO
 * Mais sobre a API: https://docs.oracle.com/javase/8/docs/api/java/nio/package-summary.html
