@@ -1,6 +1,5 @@
 
-# Gerador de metadados em formato .CSV padrão ISAD(Simplificado)
-* Software utilizado: NetBeans 8.1
+# Gerador de metadados em formato .CSV padrão ISAD (Simplificado)
 * API utilizada: Java NIO
 * Mais sobre a API: https://docs.oracle.com/javase/8/docs/api/java/nio/package-summary.html
 
@@ -16,5 +15,3 @@
 * No prompt como administrador execute o seguinte comando para rodar a aplicação:
 * ``java -jar < arquivo .jar>``
 * Pronto, ao selecionar repositórios na aplicação utilize o caminho COMPLETO.
-
-![JAVA](https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Java-logo.jpg/revision/latest/scale-to-width-down/640?cb=20150321072347)   
